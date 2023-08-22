@@ -1,5 +1,6 @@
 import './style.css'
-import {charmander} from './bases/01-classes.ts'
+// import {charmander} from './bases/01-classes.ts'
+import {charmander} from './bases/02-injection.ts'
 import typescriptLogo from './typescript.svg'
 import viteLogo from '/vite.svg'
 import { setupCounter } from './counter.ts'
